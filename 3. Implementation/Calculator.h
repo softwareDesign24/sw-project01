@@ -1,24 +1,13 @@
-/**
- * Project Untitled
- */
-
-
-#ifndef _CALCULATOR_H
-#define _CALCULATOR_H
+// A simple example
 
 class Calculator {
-public: 
-    
-void add();
-    
-void substract();
-    
-void multiply();
-    
-void divide();
-private: 
-    void number01;
-    void number02;
-};
+   private: 
+      void number01;
+      void number02;
 
-#endif //_CALCULATOR_H
+   public: 
+      void add();
+      void substract();
+      void multiply();
+      void divide();
+};
