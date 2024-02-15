@@ -2,11 +2,14 @@ name: Unit test
 on: push
 
 jobs:
-  test_project:
+  unit-testing:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Run the Calculator Unit Tests
-      run: |
-      python -m pip install --upgrade pip
-      pip install flake8 unittest
+      - name : Checkout code
+        uses : actions/checkout@v2
+      
+      - name : Install Packages 
+        run : pip install unittest
+      
+      - name : Run tests 
+        run : unittest test01.py
