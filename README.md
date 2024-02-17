@@ -10,3 +10,5 @@ Under Cosntruction!
 * [An Empirical Taxonomy of DevOps in Practice](https://salford-repository.worktribe.com/preview/1488124/PID6498247.pdf)
 
 * [Building and testing Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
+
+* [stackoverflow: fix bug 01](https://stackoverflow.com/questions/37353960/why-pytest-is-not-collecting-tests-collected-0-items)
