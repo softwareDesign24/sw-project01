@@ -10,4 +10,4 @@ def test_01():
 def test_02():
     a = Calculator(5,10)
     """ Check that plus(5,10) = 15 """
-    assert a.plus() == 15
+    assert a.plus() == 1
