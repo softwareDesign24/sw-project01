@@ -12,3 +12,7 @@ Under Cosntruction!
 * [Building and testing Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
 
 * [stackoverflow: fix bug 01](https://stackoverflow.com/questions/37353960/why-pytest-is-not-collecting-tests-collected-0-items)
+
+* [Github: Building and testing Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
+
+* [Docker: Configure CI/CD for your Python application](https://docs.docker.com/language/python/configure-ci-cd/)
