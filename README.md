@@ -16,3 +16,5 @@ Under Cosntruction!
 * [Github: Building and testing Python](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python)
 
 * [Docker: Configure CI/CD for your Python application](https://docs.docker.com/language/python/configure-ci-cd/)
+
+* [Docker: Containerize a Python application](https://docs.docker.com/language/python/containerize/)
