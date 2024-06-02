@@ -2,7 +2,7 @@
 Under Cosntruction!
 
 
-## Ενδεικτική Βιβλιογραφία
+## Ενδεικτική Βιβλιογραφία (για περαιτέρω μελέτη)
 * [Software Development Lifecycle Models](https://people.disim.univaq.it/~adimarco/teaching/sweng13/articoloSoftwareProcessModels.pdf)
 * [Manifesto for agile software development](https://ai-learn.it/wp-content/uploads/2019/03/03_ManifestoofAgileSoftwareDevelopment-1.pdf)
 * [Agile Modeling, Agile Software Develpment, and Extreme Programming: The State of Research](https://www.researchgate.net/profile/Keng-Siau-2/publication/220373708_Agile_Modeling_Agile_Software_Development_and_Extreme_Programming_The_State_of_Research/links/5984f29f458515605844f08d/Agile-Modeling-Agile-Software-Development-and-Extreme-Programming-The-State-of-Research.pdf)
