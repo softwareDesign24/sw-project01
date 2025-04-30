@@ -4,7 +4,7 @@ class Calculator:
     self.var02 = var02
 
   def plus(self):
-    return self.var01 + self.var02 +1
+    return self.var01 + self.var02
 
   def minus(self):
     return self.var01 - self.var02
